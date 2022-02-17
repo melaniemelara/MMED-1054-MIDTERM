@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+} 
+
+h1 {
+    color:darksalmon;
+    font-size: 36px;
+    text-align: left;
+}
+
+p {
+    color: #43368a;
+    text-align: left;
+}

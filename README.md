@@ -16,10 +16,9 @@ For review and approval of good HTML tags, properly named fields, and correctly 
 5) Submit a pull request ^^
 
 # Credits
-1) [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links]
-2) [https://gist.github.com/pedronauck/5573168]
-3) [https://www.davidketcheson.info/2015/05/13/add_a_readme.html]
-4) [https://www.fanshaweonline.ca/d2l/le/content/1257855/viewContent/10644666/View]
+1) [https://www.w3schools.com/tags/ref_byfunc.asp]
+2) [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics]
+3) [https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started]
 
 # MIT License
 Copyright <2022> <COPYRIGHT Melanie Melara>
