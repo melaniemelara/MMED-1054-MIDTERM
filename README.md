@@ -19,6 +19,7 @@ For review and approval of good HTML tags, properly named fields, and correctly 
 1) [https://www.w3schools.com/tags/ref_byfunc.asp]
 2) [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics]
 3) [https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started]
+4) [https://www.cnet.com/health/fitness/when-should-you-exercise-morning-afternoon-or-night-backed-by-science/]
 
 # MIT License
 Copyright <2022> <COPYRIGHT Melanie Melara>
