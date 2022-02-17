@@ -1,0 +1,20 @@
+.hidden {
+    display: none;
+} 
+
+h1 {
+    color:darksalmon;
+    font-size: 36px;
+    text-align: left;
+}
+
+p {
+    color: #43368a;
+    text-align: left;
+}
+
+h2 {
+    color: #6b8a52;
+    font-size: 36px;
+    text-align: left;
+}
